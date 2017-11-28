@@ -97,6 +97,8 @@ $ git push --tags				## 推送所有标签
 ```
 ### 查看
 ```bash
+$ git config user.name      ## 查看当前用户名
+$ git config user.email     ## 查看当前用户邮箱
 $ git status 					## 查看修改
 $ git branch					## 查看分支
 $ git log 					## 查看版本历史
