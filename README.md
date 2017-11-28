@@ -1,5 +1,5 @@
 # KbellX.github.io
-My blog : https://kbellx.github.io/
+My blog : http://blog.kbell.me/
 
 Theme : https://github.com/tufu9441/maupassant-hexo
 
