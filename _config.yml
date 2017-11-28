@@ -71,3 +71,12 @@ deploy:
   type: git
   repo: git@github.com:KbellX/KbellX.github.io.git
   branch: master  
+
+# RSS订阅支持
+plugin:
+- hexo-generator-feed
+# Feed Atom
+feed:
+type: atom
+path: atom.xml
+limit: 20
